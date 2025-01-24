@@ -47,3 +47,4 @@
 | 24   | [spacetravelerJ](https://github.com/spacetravelerJ) | c++, python                    | git 강의 감사합니다. 열심히 배워야겠어요             |
 | 25   | [juyoung07](https://github.com/juyoung07)           | Java, Spring, Node.js, Kotlin  | 유명한 앱을 개발하는 개발자가 됩겁니다. 다들 꿈을 이루길! |
 | 26   | [pjh38](https://github.com/pjh38)                   | python                         | 좋은 강의 감사합니다.       |
+| 27   | [hwanghb](https://github.com/hwanghb)               | Python, C++                    | 좋은 강의 너무 감사합니다! |
